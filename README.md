@@ -27,9 +27,9 @@ A React application that displays a collection of movies fetched from an externa
 
 ### Installation
 
-1. Clone the repository: 
+1. Clone the repository:  
 
-git clone
+git clone https://github.com/vivektivarii/Movies_Database
 
 2. Navigate to the project directory:
 
