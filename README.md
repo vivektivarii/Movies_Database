@@ -1,8 +1,44 @@
-# React + Vite
+# Movies Database
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application that displays a collection of movies fetched from an external API, showing their titles, ratings, images, and IMDB links.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fetches movie data from an external API
+- Displays movies in a responsive grid layout
+- Shows movie images with fallback for broken links
+- Displays movie ratings
+- Direct links to IMDB pages
+- Loading and error state handling
+
+## Technologies Used
+
+- React
+- JavaScript (ES6+)
+- CSS
+- Fetch API
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository: 
+
+git clone
+
+2. Navigate to the project directory:
+
+cd Movies-database
+
+3. Install dependencies:
+
+npm install
+
+4. Start the development server:
+
+npm run dev
